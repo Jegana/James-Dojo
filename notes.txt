@@ -1,0 +1,9 @@
+Goal: Give the participants the tools necessary to succeed in the transitioning to a QA engineering role.
+Language & reasoning
+Python
+
+Timeline:
+1) Basics (syntax, easy examples) [1-2 weeks]
+2) Algos, complexity, etc (CS) [1 week]
+3) Problem Solving (this is going to hurt, there will be math) [2-4 weeks]
+4) Maxwell tickets
